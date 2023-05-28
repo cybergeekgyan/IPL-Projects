@@ -8,7 +8,6 @@ Building a model that predicts the outcome of IPL matches based on historical da
 - If you want to view the deployed model, click on the following link: 
 
 
-
 ## STEPS 
 
 - Data Collection
@@ -22,7 +21,15 @@ Building a model that predicts the outcome of IPL matches based on historical da
 - Ensemble Methods
 - Model Deployment 
 
+# Requirements
+
+
+
+
+
 # Authors
+
+
 
 
 # Contribution 
