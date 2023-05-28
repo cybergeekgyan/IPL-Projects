@@ -7,7 +7,7 @@ Building a model that predicts the outcome of IPL matches based on historical da
 
 - If you want to view the deployed model, click on the following link: 
 
-- Please do ⭐ the repository, if it helped you in anyway.
+
 
 ## STEPS 
 
@@ -21,4 +21,12 @@ Building a model that predicts the outcome of IPL matches based on historical da
 - Model Boosting
 - Ensemble Methods
 - Model Deployment 
+
+# Authors
+
+
+# Contribution 
+
+- Please do ⭐ the repository, if it helped you in anyway.
+
 
