@@ -1,4 +1,4 @@
-# IPL and Cricket Projects
+# IPL Projects
 
 Several domain of machine learning and deep learning related projects for IPL (Indian Premier League) and cricket
 
